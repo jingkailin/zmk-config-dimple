@@ -40,7 +40,7 @@
      &kp GRAVE  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_VOLUME_DOWN  &kp C_VOL_UP  &trans      &trans  &trans  &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp NON_US_BACKSLASH
         &trans                &trans                &trans             &trans        &trans  &trans      &trans  &trans  &trans     &kp SEMICOLON            &kp SQT             &kp ENTER
 &kp LEFT_SHIFT                &trans                &trans             &trans        &trans  &trans      &trans  &trans  &trans         &kp SLASH             &trans
-   &bootloader                                  &sys_reset             &trans        &trans          &bt BT_CLR  &trans  &trans            &trans
+   &bootloader                                  &sys_reset             &trans        &trans          &bt BT_CLR  &trans  &trans        &kp C_MUTE
             >;
         };
 
